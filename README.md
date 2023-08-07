@@ -4,4 +4,5 @@
 Contains <b>TP and TN </b> which are the truely predicted values, <b>FN, and FP </b> which are the false predicted values like in <b>False Negative (FN)</b> , it is classified as Negative but this is false, it is positive.
 <h2>Precision</h2>
 <h2>Summary</h2>
-!(https://github.com/KARAKOZA22/Metrics-/assets/96451039/22640a63-21ce-4f44-a5a3-e6c46dfe60bf)
+![1_fUnVMuu91SR_Ehrfvne2iA](https://github.com/KARAKOZA22/Metrics-/assets/96451039/ffb8b41d-75e0-4eea-92da-39c68d9166a8)
+
