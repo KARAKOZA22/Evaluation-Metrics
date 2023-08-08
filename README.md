@@ -9,10 +9,12 @@ It indicates how many values are truely predicted as positive from all true labe
 <h2>F1-Score</h2>
 It is the geometric mean between <b>Precision, and Recall</b><br><br>
 <b>Geometric mean of [1,2,3,4] = (1*2*3*4)^(1/4)</b><br><br>
+
 <img width="720" alt="image-29" src="https://github.com/KARAKOZA22/Metrics-/assets/96451039/ef4fab6c-6e3e-40dd-b270-46ebbc0edede">
 
 <h2>ROC Curve</h2>
 <b> ROC = TP / FP </b><br><br>
+
 <img  height = "400"
 src = "https://github.com/KARAKOZA22/Metrics-/assets/96451039/13546ff0-87e7-4eb8-a5bf-a9a972c3949e)" >
 
